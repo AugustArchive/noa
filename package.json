@@ -1,0 +1,18 @@
+{
+    "name": "@maika.xyz/noa",
+    "description": "Sharder library for Maika",
+    "version": "0.0.1",
+    "dependencies": {
+        "@maika.xyz/eris-utils": "^0.1.1",
+        "veza": "0.3.3",
+        "wumpfetch": "0.0.8"
+    },
+    "devDependencies": {
+        "@augu/eris": "0.10.0",
+        "@types/node": "11.9.4",
+        "typescript": "3.3.3333"
+    },
+    "main": "build/index.js",
+    "types": "index.d.ts",
+    "license": "MIT"
+}
