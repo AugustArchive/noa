@@ -1,7 +1,7 @@
 # Noa
 Noa is a sharding library for Maika, mainly for clusters
 
-> Project is based on [Kurusata](https://github.com/Dev-Yukine/Kurusata) and uses it code but in my library: `@augu/eris`
+> Project is based on [Kurusata](https://github.com/Dev-Yukine/Kurasuta) and uses it code but in my library: `@augu/eris`
 
 ## Usage
 > main.js
