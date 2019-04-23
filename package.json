@@ -5,7 +5,7 @@
     "dependencies": {
         "@maika.xyz/eris-utils": "^0.1.1",
         "veza": "0.3.3",
-        "wumpfetch": "0.0.8"
+        "wumpfetch": "0.2.12"
     },
     "devDependencies": {
         "@augu/eris": "0.10.0",
