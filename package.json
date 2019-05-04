@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "@augu/eris": "0.10.0",
-        "@types/node": "11.9.4",
+        "@types/node": "11.13.10",
         "typescript": "3.3.3333"
     },
     "main": "build/index.js",

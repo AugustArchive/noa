@@ -17,10 +17,10 @@
   resolved "https://registry.yarnpkg.com/@maika.xyz/eris-utils/-/eris-utils-0.1.1.tgz#d22c97d2b0365cbb798f7d421666618d9d410e33"
   integrity sha512-d8oWDDkUFn6DtVPAhEEGGuq4/yFNt8fk0YvN+9XnTMXo0ZXy8pfMlfwkhP5lcHcc4s+G7Z5W5FveZHxvvnDKRA==
 
-"@types/node@11.9.4":
-  version "11.9.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.4.tgz#ceb0048a546db453f6248f2d1d95e937a6f00a14"
-  integrity sha512-Zl8dGvAcEmadgs1tmSPcvwzO1YRsz38bVJQvH1RvRqSR9/5n61Q1ktcDL0ht3FXWR+ZpVmXVwN1LuH4Ax23NsA==
+"@types/node@11.13.10":
+  version "11.13.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.10.tgz#4df59e5966b56f512bac98898bcbee5067411f0f"
+  integrity sha512-leUNzbFTMX94TWaIKz8N15Chu55F9QSH+INKayQr5xpkasBQBRF3qQXfo3/dOnMU/dEIit+Y/SU8HyOjq++GwA==
 
 async-limiter@~1.0.0:
   version "1.0.0"
